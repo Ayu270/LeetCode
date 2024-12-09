@@ -1,5 +1,5 @@
 # LeetCode
-A collection of LeetCode questions - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A collection of random LeetCode questions
 
 
 # Array
