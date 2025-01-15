@@ -114,6 +114,7 @@ A collection of random LeetCode questions
 ## Array
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/ayush27coder/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayush27coder/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/ayush27coder/LeetCode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush27coder/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -134,4 +135,8 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [2509-minimize-xor](https://github.com/ayush27coder/LeetCode/tree/master/2509-minimize-xor) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/ayush27coder/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
