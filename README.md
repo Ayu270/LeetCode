@@ -127,5 +127,10 @@ A collection of random LeetCode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [2509-minimize-xor](https://github.com/ayush27coder/LeetCode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush27coder/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [2509-minimize-xor](https://github.com/ayush27coder/LeetCode/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->
