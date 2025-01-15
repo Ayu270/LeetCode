@@ -115,6 +115,7 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayush27coder/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2518-the-employee-that-worked-on-the-longest-task](https://github.com/ayush27coder/LeetCode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush27coder/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
