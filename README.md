@@ -65,6 +65,7 @@ A collection of random LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayush27coder/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush27coder/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush27coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -120,6 +121,7 @@ A collection of random LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayush27coder/LeetCode/tree/master/0015-3sum) |
 | [2058-concatenation-of-array](https://github.com/ayush27coder/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayush27coder/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/ayush27coder/LeetCode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
@@ -145,4 +147,8 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/ayush27coder/LeetCode/tree/master/2058-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/ayush27coder/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
