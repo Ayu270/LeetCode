@@ -78,6 +78,7 @@ A collection of random LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ayush27coder/LeetCode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/ayush27coder/LeetCode/tree/master/0069-sqrtx) |
 | [2037-count-square-sum-triples](https://github.com/ayush27coder/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2383-add-two-integers](https://github.com/ayush27coder/LeetCode/tree/master/2383-add-two-integers) |
@@ -89,6 +90,7 @@ A collection of random LeetCode questions
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ayush27coder/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/ayush27coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayush27coder/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3379-score-of-a-string](https://github.com/ayush27coder/LeetCode/tree/master/3379-score-of-a-string) |
@@ -104,6 +106,7 @@ A collection of random LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ayush27coder/LeetCode/tree/master/0012-integer-to-roman) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush27coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush27coder/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ayush27coder/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
