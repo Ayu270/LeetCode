@@ -124,6 +124,7 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ayush27coder/LeetCode/tree/master/0015-3sum) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayush27coder/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2058-concatenation-of-array](https://github.com/ayush27coder/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayush27coder/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/ayush27coder/LeetCode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
@@ -161,4 +162,24 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayush27coder/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayush27coder/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayush27coder/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayush27coder/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayush27coder/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayush27coder/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
