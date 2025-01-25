@@ -137,6 +137,7 @@ A collection of random LeetCode questions
 | [2685-first-completely-painted-row-or-column](https://github.com/ayush27coder/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush27coder/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ayush27coder/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush27coder/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ayush27coder/LeetCode/tree/master/0015-3sum) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush27coder/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Brainteaser
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/ayush27coder/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush27coder/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
 |  |
 | ------- |
