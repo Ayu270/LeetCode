@@ -104,6 +104,7 @@ A collection of random LeetCode questions
 | [0013-roman-to-integer](https://github.com/ayush27coder/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ayush27coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/ayush27coder/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ayush27coder/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ayush27coder/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayush27coder/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayush27coder/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -294,6 +295,7 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/ayush27coder/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ayush27coder/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ayush27coder/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayush27coder/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ayush27coder/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
