@@ -88,6 +88,7 @@ A collection of random LeetCode questions
 | [0013-roman-to-integer](https://github.com/ayush27coder/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/ayush27coder/LeetCode/tree/master/0069-sqrtx) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ayush27coder/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2037-count-square-sum-triples](https://github.com/ayush27coder/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2383-add-two-integers](https://github.com/ayush27coder/LeetCode/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ayush27coder/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -161,6 +162,7 @@ A collection of random LeetCode questions
 | [1396-count-servers-that-communicate](https://github.com/ayush27coder/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ayush27coder/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayush27coder/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ayush27coder/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush27coder/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/ayush27coder/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -295,6 +297,7 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/ayush27coder/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/ayush27coder/LeetCode/tree/master/2145-grid-game) |
 ## Topological Sort
 |  |
@@ -339,5 +342,6 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ayush27coder/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush27coder/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
