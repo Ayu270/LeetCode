@@ -92,6 +92,7 @@ A collection of random LeetCode questions
 | [0069-sqrtx](https://github.com/ayush27coder/LeetCode/tree/master/0069-sqrtx) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ayush27coder/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ayush27coder/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2037-count-square-sum-triples](https://github.com/ayush27coder/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2383-add-two-integers](https://github.com/ayush27coder/LeetCode/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ayush27coder/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
