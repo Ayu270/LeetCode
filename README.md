@@ -160,6 +160,7 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/ayush27coder/LeetCode/tree/master/2037-count-square-sum-triples) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush27coder/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Array
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of random LeetCode questions
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayush27coder/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush27coder/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ayush27coder/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush27coder/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush27coder/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ayush27coder/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayush27coder/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -241,6 +243,7 @@ A collection of random LeetCode questions
 | ------- |
 | [0015-3sum](https://github.com/ayush27coder/LeetCode/tree/master/0015-3sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayush27coder/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush27coder/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush27coder/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Brainteaser
 |  |
