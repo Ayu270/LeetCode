@@ -45,6 +45,7 @@ A collection of random LeetCode questions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayush27coder/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush27coder/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ayush27coder/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayush27coder/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -61,6 +62,7 @@ A collection of random LeetCode questions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayush27coder/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ayush27coder/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayush27coder/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/ayush27coder/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -92,6 +94,7 @@ A collection of random LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayush27coder/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ayush27coder/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ayush27coder/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayush27coder/LeetCode/tree/master/0013-roman-to-integer) |
