@@ -157,6 +157,7 @@ A collection of random LeetCode questions
 | [2685-first-completely-painted-row-or-column](https://github.com/ayush27coder/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayush27coder/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush27coder/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush27coder/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayush27coder/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ayush27coder/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Enumeration
@@ -202,6 +203,7 @@ A collection of random LeetCode questions
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush27coder/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ayush27coder/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush27coder/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush27coder/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush27coder/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ayush27coder/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayush27coder/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -283,6 +285,7 @@ A collection of random LeetCode questions
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayush27coder/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/ayush27coder/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayush27coder/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush27coder/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ayush27coder/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
 |  |
@@ -372,4 +375,8 @@ A collection of random LeetCode questions
 | [1170-shortest-common-supersequence](https://github.com/ayush27coder/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush27coder/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush27coder/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->
