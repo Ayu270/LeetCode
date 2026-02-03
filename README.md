@@ -117,6 +117,7 @@ A collection of random LeetCode questions
 | ------- |
 | [0012-integer-to-roman](https://github.com/ayush27coder/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayush27coder/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ayush27coder/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayush27coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [0696-count-binary-substrings](https://github.com/ayush27coder/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -173,6 +174,7 @@ A collection of random LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ayush27coder/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ayush27coder/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayush27coder/LeetCode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/ayush27coder/LeetCode/tree/master/0041-first-missing-positive) |
@@ -385,4 +387,8 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush27coder/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ayush27coder/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
