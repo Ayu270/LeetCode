@@ -183,6 +183,7 @@ A collection of random LeetCode questions
 | [0027-remove-element](https://github.com/ayush27coder/LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/ayush27coder/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/ayush27coder/LeetCode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/ayush27coder/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ayush27coder/LeetCode/tree/master/0118-pascals-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/ayush27coder/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0518-coin-change-ii](https://github.com/ayush27coder/LeetCode/tree/master/0518-coin-change-ii) |
@@ -250,6 +251,7 @@ A collection of random LeetCode questions
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ayush27coder/LeetCode/tree/master/0055-jump-game) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayush27coder/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/ayush27coder/LeetCode/tree/master/2509-minimize-xor) |
 ## Simulation
@@ -390,6 +392,7 @@ A collection of random LeetCode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ayush27coder/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ayush27coder/LeetCode/tree/master/0118-pascals-triangle) |
 | [0518-coin-change-ii](https://github.com/ayush27coder/LeetCode/tree/master/0518-coin-change-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ayush27coder/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
