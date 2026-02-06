@@ -226,6 +226,7 @@ A collection of random LeetCode questions
 | [3379-transformed-array](https://github.com/ayush27coder/LeetCode/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/ayush27coder/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayush27coder/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ayush27coder/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/ayush27coder/LeetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/ayush27coder/LeetCode/tree/master/3640-trionic-array-ii) |
 ## String Matching
@@ -275,6 +276,7 @@ A collection of random LeetCode questions
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayush27coder/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush27coder/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush27coder/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ayush27coder/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush27coder/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ayush27coder/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Trie
 |  |
 | ------- |
