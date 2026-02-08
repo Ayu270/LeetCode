@@ -103,6 +103,7 @@ A collection of random LeetCode questions
 | [0013-roman-to-integer](https://github.com/ayush27coder/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ayush27coder/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ayush27coder/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ayush27coder/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ayush27coder/LeetCode/tree/master/0069-sqrtx) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ayush27coder/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -125,6 +126,7 @@ A collection of random LeetCode questions
 | [0020-valid-parentheses](https://github.com/ayush27coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush27coder/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ayush27coder/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ayush27coder/LeetCode/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/ayush27coder/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ayush27coder/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -253,6 +255,7 @@ A collection of random LeetCode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ayush27coder/LeetCode/tree/master/0067-add-binary) |
 | [2509-minimize-xor](https://github.com/ayush27coder/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayush27coder/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush27coder/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -266,6 +269,7 @@ A collection of random LeetCode questions
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ayush27coder/LeetCode/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayush27coder/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/ayush27coder/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayush27coder/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
