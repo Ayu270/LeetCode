@@ -335,6 +335,7 @@ A collection of random LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ayush27coder/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/ayush27coder/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ayush27coder/LeetCode/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -383,6 +384,7 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush27coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/ayush27coder/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ayush27coder/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -391,6 +393,7 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush27coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/ayush27coder/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ayush27coder/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
