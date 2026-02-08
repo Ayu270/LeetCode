@@ -123,6 +123,7 @@ A collection of random LeetCode questions
 | [0014-longest-common-prefix](https://github.com/ayush27coder/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayush27coder/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush27coder/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/ayush27coder/LeetCode/tree/master/0058-length-of-last-word) |
 | [0696-count-binary-substrings](https://github.com/ayush27coder/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ayush27coder/LeetCode/tree/master/1160-letter-tile-possibilities) |
