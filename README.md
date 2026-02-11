@@ -180,6 +180,7 @@ A collection of random LeetCode questions
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayush27coder/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ayush27coder/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush27coder/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/ayush27coder/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of random LeetCode questions
 | [3637-trionic-array-i](https://github.com/ayush27coder/LeetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/ayush27coder/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush27coder/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/ayush27coder/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -378,6 +380,7 @@ A collection of random LeetCode questions
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/ayush27coder/LeetCode/tree/master/2145-grid-game) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush27coder/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/ayush27coder/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -430,6 +433,7 @@ A collection of random LeetCode questions
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush27coder/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush27coder/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/ayush27coder/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -465,4 +469,5 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush27coder/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/ayush27coder/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
