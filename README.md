@@ -90,6 +90,7 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush27coder/LeetCode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayush27coder/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayush27coder/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -350,6 +351,7 @@ A collection of random LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ayush27coder/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayush27coder/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/ayush27coder/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -401,6 +403,7 @@ A collection of random LeetCode questions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ayush27coder/LeetCode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush27coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayush27coder/LeetCode/tree/master/0110-balanced-binary-tree) |
@@ -412,6 +415,7 @@ A collection of random LeetCode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ayush27coder/LeetCode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush27coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayush27coder/LeetCode/tree/master/0110-balanced-binary-tree) |
