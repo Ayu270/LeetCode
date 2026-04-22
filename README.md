@@ -312,6 +312,7 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ayush27coder/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ayu270/LeetCode/tree/master/0101-symmetric-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/ayush27coder/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/ayush27coder/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ayush27coder/LeetCode/tree/master/0854-making-a-large-island) |
@@ -361,6 +362,7 @@ A collection of random LeetCode questions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ayush27coder/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ayu270/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayush27coder/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/ayush27coder/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ayush27coder/LeetCode/tree/master/0854-making-a-large-island) |
@@ -414,6 +416,7 @@ A collection of random LeetCode questions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ayush27coder/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ayu270/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush27coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayush27coder/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -426,6 +429,7 @@ A collection of random LeetCode questions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ayush27coder/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ayu270/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush27coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayush27coder/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
