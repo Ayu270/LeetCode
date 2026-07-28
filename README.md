@@ -146,6 +146,7 @@ A collection of random LeetCode questions
 | [3379-score-of-a-string](https://github.com/ayush27coder/LeetCode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/ayush27coder/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ayush27coder/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayu270/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush27coder/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Design
 |  |
@@ -308,6 +309,7 @@ A collection of random LeetCode questions
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayush27coder/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush27coder/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush27coder/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayu270/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ayush27coder/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Brainteaser
 |  |
@@ -487,4 +489,8 @@ A collection of random LeetCode questions
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush27coder/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush27coder/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayu270/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
