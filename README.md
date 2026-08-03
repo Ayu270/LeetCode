@@ -114,6 +114,7 @@ A collection of random LeetCode questions
 | [0486-predict-the-winner](https://github.com/Ayu270/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayu270/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ayu270/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ayush27coder/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ayush27coder/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -233,6 +234,7 @@ A collection of random LeetCode questions
 | [1200-minimum-absolute-difference](https://github.com/ayush27coder/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1364-tuple-with-same-product](https://github.com/ayush27coder/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ayush27coder/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayu270/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ayush27coder/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayush27coder/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -486,6 +488,7 @@ A collection of random LeetCode questions
 | [0877-stone-game](https://github.com/Ayu270/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ayush27coder/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/ayush27coder/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayush27coder/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush27coder/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -527,4 +530,13 @@ A collection of random LeetCode questions
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ayu270/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ayu270/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
