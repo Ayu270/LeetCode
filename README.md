@@ -360,6 +360,7 @@ A collection of random LeetCode questions
 | [2564-most-profitable-path-in-a-tree](https://github.com/ayush27coder/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ayush27coder/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayush27coder/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Ayu270/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Graph
 |  |
 | ------- |
@@ -410,6 +411,7 @@ A collection of random LeetCode questions
 | [1558-course-schedule-iv](https://github.com/ayush27coder/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ayush27coder/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayush27coder/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Ayu270/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Union Find
 |  |
 | ------- |
@@ -543,4 +545,8 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Ayu270/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
