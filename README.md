@@ -124,6 +124,7 @@ A collection of random LeetCode questions
 | [2491-smallest-even-multiple](https://github.com/ayush27coder/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ayush27coder/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayu270/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ayu270/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayu270/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayu270/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
@@ -208,6 +209,7 @@ A collection of random LeetCode questions
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/ayush27coder/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayush27coder/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ayu270/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush27coder/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Array
 |  |
