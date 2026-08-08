@@ -88,6 +88,7 @@ A collection of random LeetCode questions
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayush27coder/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/ayush27coder/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayush27coder/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ayu270/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of random LeetCode questions
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayush27coder/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayu270/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayu270/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ayu270/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayu270/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3379-score-of-a-string](https://github.com/ayush27coder/LeetCode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/ayush27coder/LeetCode/tree/master/3447-clear-digits) |
@@ -316,6 +318,7 @@ A collection of random LeetCode questions
 | [2509-minimize-xor](https://github.com/ayush27coder/LeetCode/tree/master/2509-minimize-xor) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayu270/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayu270/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ayu270/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayu270/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
@@ -505,6 +508,7 @@ A collection of random LeetCode questions
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayush27coder/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush27coder/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ayu270/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3640-trionic-array-ii](https://github.com/ayush27coder/LeetCode/tree/master/3640-trionic-array-ii) |
 ## Sliding Window
 |  |
