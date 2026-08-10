@@ -118,6 +118,7 @@ A collection of random LeetCode questions
 | [1140-stone-game-ii](https://github.com/Ayu270/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ayush27coder/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1510-stone-game-iv](https://github.com/Ayu270/LeetCode/tree/master/1510-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ayush27coder/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2037-count-square-sum-triples](https://github.com/ayush27coder/LeetCode/tree/master/2037-count-square-sum-triples) |
@@ -516,6 +517,7 @@ A collection of random LeetCode questions
 | [1140-stone-game-ii](https://github.com/Ayu270/LeetCode/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/ayush27coder/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ayu270/LeetCode/tree/master/1510-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayush27coder/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush27coder/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -561,16 +563,19 @@ A collection of random LeetCode questions
 | [0877-stone-game](https://github.com/Ayu270/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Ayu270/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ayu270/LeetCode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ayu270/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ayu270/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ayu270/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ayu270/LeetCode/tree/master/1510-stone-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
@@ -579,4 +584,12 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayu270/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ayu270/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ayu270/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
