@@ -159,6 +159,7 @@ A collection of random LeetCode questions
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ayush27coder/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayush27coder/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/ayush27coder/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ayu270/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayush27coder/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ayu270/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayush27coder/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -266,6 +267,7 @@ A collection of random LeetCode questions
 | [2058-concatenation-of-array](https://github.com/ayush27coder/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/ayush27coder/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/ayush27coder/LeetCode/tree/master/2145-grid-game) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ayu270/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayush27coder/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayush27coder/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2448-count-number-of-bad-pairs](https://github.com/ayush27coder/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -460,6 +462,7 @@ A collection of random LeetCode questions
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ayu270/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2434-design-a-number-container-system](https://github.com/ayush27coder/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
@@ -552,6 +555,7 @@ A collection of random LeetCode questions
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ayu270/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush27coder/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush27coder/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting Sort
