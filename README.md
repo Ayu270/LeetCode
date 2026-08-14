@@ -165,6 +165,7 @@ A collection of random LeetCode questions
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayush27coder/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayu270/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayu270/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayu270/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ayu270/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayu270/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3379-score-of-a-string](https://github.com/ayush27coder/LeetCode/tree/master/3379-score-of-a-string) |
@@ -211,6 +212,7 @@ A collection of random LeetCode questions
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ayu270/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush27coder/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayu270/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayu270/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayush27coder/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ayush27coder/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayu270/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -537,6 +539,7 @@ A collection of random LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayu270/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayu270/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ayush27coder/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayu270/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ayush27coder/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Trie
 |  |
