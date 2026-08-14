@@ -253,6 +253,7 @@ A collection of random LeetCode questions
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1140-stone-game-ii](https://github.com/Ayu270/LeetCode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/ayush27coder/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/Ayu270/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1364-tuple-with-same-product](https://github.com/ayush27coder/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ayush27coder/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
@@ -341,6 +342,7 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ayush27coder/LeetCode/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/Ayu270/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayush27coder/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/ayush27coder/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayush27coder/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -412,6 +414,7 @@ A collection of random LeetCode questions
 | [0048-rotate-image](https://github.com/ayush27coder/LeetCode/tree/master/0048-rotate-image) |
 | [0407-trapping-rain-water-ii](https://github.com/ayush27coder/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/ayush27coder/LeetCode/tree/master/0854-making-a-large-island) |
+| [1260-shift-2d-grid](https://github.com/Ayu270/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/ayush27coder/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayush27coder/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ayush27coder/LeetCode/tree/master/1876-map-of-highest-peak) |
