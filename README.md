@@ -133,11 +133,13 @@ A collection of random LeetCode questions
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayu270/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayu270/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayu270/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ayu270/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/ayush27coder/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ayu270/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ayu270/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
