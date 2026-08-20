@@ -251,6 +251,7 @@ A collection of random LeetCode questions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush27coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ayush27coder/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayu270/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Ayu270/LeetCode/tree/master/0136-single-number) |
 | [0407-trapping-rain-water-ii](https://github.com/ayush27coder/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0486-predict-the-winner](https://github.com/Ayu270/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ayush27coder/LeetCode/tree/master/0518-coin-change-ii) |
@@ -339,6 +340,7 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ayush27coder/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Ayu270/LeetCode/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ayu270/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2509-minimize-xor](https://github.com/ayush27coder/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayush27coder/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
