@@ -1,8 +1,5 @@
 class Solution {
     public int reverse(int x) {
-        if(x > Integer.MAX_VALUE || x<Integer.MIN_VALUE){
-            return 0;
-        }
         int n =0;
         int neg=0;
         // 0-(-123)
