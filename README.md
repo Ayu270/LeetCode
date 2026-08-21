@@ -202,6 +202,7 @@ A collection of random LeetCode questions
 | [0041-first-missing-positive](https://github.com/ayush27coder/LeetCode/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush27coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Ayu270/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Ayu270/LeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayu270/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ayush27coder/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -255,6 +256,7 @@ A collection of random LeetCode questions
 | [0118-pascals-triangle](https://github.com/ayush27coder/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayu270/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ayu270/LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Ayu270/LeetCode/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/ayush27coder/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0486-predict-the-winner](https://github.com/Ayu270/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ayush27coder/LeetCode/tree/master/0518-coin-change-ii) |
@@ -383,6 +385,7 @@ A collection of random LeetCode questions
 | [0015-3sum](https://github.com/ayush27coder/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayush27coder/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ayush27coder/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Ayu270/LeetCode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayu270/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/ayush27coder/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayu270/LeetCode/tree/master/1331-rank-transform-of-an-array) |
