@@ -72,6 +72,7 @@ A collection of random LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ayu270/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayush27coder/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayush27coder/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush27coder/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -250,6 +251,7 @@ A collection of random LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ayu270/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ayush27coder/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ayush27coder/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayush27coder/LeetCode/tree/master/0018-4sum) |
@@ -369,6 +371,7 @@ A collection of random LeetCode questions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ayu270/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ayush27coder/LeetCode/tree/master/0055-jump-game) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush27coder/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Ayu270/LeetCode/tree/master/1386-cinema-seat-allocation) |
