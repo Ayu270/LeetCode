@@ -127,6 +127,7 @@ A collection of random LeetCode questions
 | [1510-stone-game-iv](https://github.com/Ayu270/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ayu270/LeetCode/tree/master/1563-stone-game-v) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1872-stone-game-viii](https://github.com/Ayu270/LeetCode/tree/master/1872-stone-game-viii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ayush27coder/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1927-sum-game](https://github.com/Ayu270/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ayu270/LeetCode/tree/master/2029-stone-game-ix) |
@@ -297,6 +298,7 @@ A collection of random LeetCode questions
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ayush27coder/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ayu270/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush27coder/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/Ayu270/LeetCode/tree/master/1872-stone-game-viii) |
 | [1876-map-of-highest-peak](https://github.com/ayush27coder/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ayush27coder/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ayush27coder/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -513,6 +515,7 @@ A collection of random LeetCode questions
 | [1140-stone-game-ii](https://github.com/Ayu270/LeetCode/tree/master/1140-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ayush27coder/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1872-stone-game-viii](https://github.com/Ayu270/LeetCode/tree/master/1872-stone-game-viii) |
 | [2145-grid-game](https://github.com/ayush27coder/LeetCode/tree/master/2145-grid-game) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush27coder/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush27coder/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -594,6 +597,7 @@ A collection of random LeetCode questions
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayush27coder/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayush27coder/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/Ayu270/LeetCode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ayu270/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3640-trionic-array-ii](https://github.com/ayush27coder/LeetCode/tree/master/3640-trionic-array-ii) |
 ## Sliding Window
@@ -642,6 +646,7 @@ A collection of random LeetCode questions
 | [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ayu270/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ayu270/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Ayu270/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ayu270/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ayu270/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -650,6 +655,7 @@ A collection of random LeetCode questions
 | [1140-stone-game-ii](https://github.com/Ayu270/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ayu270/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Ayu270/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Ayu270/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -657,6 +663,7 @@ A collection of random LeetCode questions
 | [1140-stone-game-ii](https://github.com/Ayu270/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ayu270/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Ayu270/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Ayu270/LeetCode/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
