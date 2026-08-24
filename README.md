@@ -128,6 +128,7 @@ A collection of random LeetCode questions
 | [1563-stone-game-v](https://github.com/Ayu270/LeetCode/tree/master/1563-stone-game-v) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayush27coder/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ayush27coder/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1927-sum-game](https://github.com/Ayu270/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ayu270/LeetCode/tree/master/2029-stone-game-ix) |
 | [2037-count-square-sum-triples](https://github.com/ayush27coder/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2383-add-two-integers](https://github.com/ayush27coder/LeetCode/tree/master/2383-add-two-integers) |
@@ -172,6 +173,7 @@ A collection of random LeetCode questions
 | [1544-make-the-string-great](https://github.com/Ayu270/LeetCode/tree/master/1544-make-the-string-great) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ayush27coder/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ayush27coder/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1927-sum-game](https://github.com/Ayu270/LeetCode/tree/master/1927-sum-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayush27coder/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/ayush27coder/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ayu270/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -378,6 +380,7 @@ A collection of random LeetCode questions
 | [0055-jump-game](https://github.com/ayush27coder/LeetCode/tree/master/0055-jump-game) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayush27coder/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Ayu270/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Ayu270/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ayu270/LeetCode/tree/master/2029-stone-game-ix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayush27coder/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/ayush27coder/LeetCode/tree/master/2509-minimize-xor) |
@@ -639,6 +642,7 @@ A collection of random LeetCode questions
 | [1406-stone-game-iii](https://github.com/Ayu270/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ayu270/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ayu270/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Ayu270/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ayu270/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
