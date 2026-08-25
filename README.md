@@ -243,6 +243,7 @@ A collection of random LeetCode questions
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ayu270/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayu270/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush27coder/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ayu270/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush27coder/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush27coder/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Ayu270/LeetCode/tree/master/3731-find-missing-elements) |
@@ -340,6 +341,7 @@ A collection of random LeetCode questions
 | [3637-trionic-array-i](https://github.com/ayush27coder/LeetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/ayush27coder/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayu270/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ayu270/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush27coder/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush27coder/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Ayu270/LeetCode/tree/master/3731-find-missing-elements) |
