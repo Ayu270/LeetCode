@@ -120,6 +120,7 @@ A collection of random LeetCode questions
 | [0069-sqrtx](https://github.com/ayush27coder/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayush27coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ayu270/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Ayu270/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayu270/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ayu270/LeetCode/tree/master/0877-stone-game) |
@@ -207,6 +208,7 @@ A collection of random LeetCode questions
 | ------- |
 | [0035-search-insert-position](https://github.com/ayush27coder/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ayush27coder/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ayu270/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
@@ -220,6 +222,7 @@ A collection of random LeetCode questions
 | [0202-happy-number](https://github.com/Ayu270/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ayu270/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ayu270/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayu270/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ayush27coder/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -278,6 +281,7 @@ A collection of random LeetCode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayu270/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ayu270/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Ayu270/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ayu270/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/ayush27coder/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0486-predict-the-winner](https://github.com/Ayu270/LeetCode/tree/master/0486-predict-the-winner) |
@@ -375,6 +379,7 @@ A collection of random LeetCode questions
 | ------- |
 | [0067-add-binary](https://github.com/ayush27coder/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ayu270/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ayu270/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2509-minimize-xor](https://github.com/ayush27coder/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayush27coder/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -419,6 +424,7 @@ A collection of random LeetCode questions
 | [0088-merge-sorted-array](https://github.com/ayush27coder/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ayu270/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ayu270/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayu270/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/ayush27coder/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayu270/LeetCode/tree/master/1331-rank-transform-of-an-array) |
