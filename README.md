@@ -395,6 +395,7 @@ A collection of random LeetCode questions
 | [0190-reverse-bits](https://github.com/Ayu270/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ayu270/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Ayu270/LeetCode/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Ayu270/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2509-minimize-xor](https://github.com/ayush27coder/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayush27coder/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -620,6 +621,7 @@ A collection of random LeetCode questions
 | [0070-climbing-stairs](https://github.com/ayush27coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ayush27coder/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayu270/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Ayu270/LeetCode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Ayu270/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ayush27coder/LeetCode/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Ayu270/LeetCode/tree/master/0877-stone-game) |
