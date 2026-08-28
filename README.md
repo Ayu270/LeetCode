@@ -213,6 +213,7 @@ A collection of random LeetCode questions
 | [0035-search-insert-position](https://github.com/ayush27coder/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ayush27coder/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Ayu270/LeetCode/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ayu270/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
@@ -299,6 +300,7 @@ A collection of random LeetCode questions
 | [0486-predict-the-winner](https://github.com/Ayu270/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ayush27coder/LeetCode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayu270/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Ayu270/LeetCode/tree/master/0704-binary-search) |
 | [0854-making-a-large-island](https://github.com/ayush27coder/LeetCode/tree/master/0854-making-a-large-island) |
 | [0877-stone-game](https://github.com/Ayu270/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ayush27coder/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
