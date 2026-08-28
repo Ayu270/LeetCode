@@ -96,6 +96,7 @@ A collection of random LeetCode questions
 | [2551-apply-operations-to-an-array](https://github.com/ayush27coder/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ayush27coder/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ayu270/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ayu270/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of random LeetCode questions
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayu270/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush27coder/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayu270/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ayu270/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Design
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of random LeetCode questions
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ayu270/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush27coder/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayu270/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ayu270/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
