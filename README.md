@@ -333,6 +333,7 @@ A collection of random LeetCode questions
 | [1927-maximum-ascending-subarray-sum](https://github.com/ayush27coder/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2029-stone-game-ix](https://github.com/Ayu270/LeetCode/tree/master/2029-stone-game-ix) |
 | [2058-concatenation-of-array](https://github.com/ayush27coder/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayu270/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2107-find-unique-binary-string](https://github.com/ayush27coder/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/ayush27coder/LeetCode/tree/master/2145-grid-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ayu270/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -426,6 +427,7 @@ A collection of random LeetCode questions
 | [1386-cinema-seat-allocation](https://github.com/Ayu270/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Ayu270/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ayu270/LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayu270/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ayush27coder/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/ayush27coder/LeetCode/tree/master/2509-minimize-xor) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayu270/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
