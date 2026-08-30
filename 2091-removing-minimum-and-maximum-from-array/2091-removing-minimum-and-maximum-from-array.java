@@ -1,16 +1,34 @@
 class Solution {
     public int minimumDeletions(int[] nums) {
-        HashMap <Integer, Integer> map = new HashMap<>();
-        for(int i=0; i<nums.length; i++){
-            map.put(nums[i],i);
+        int max = 0;
+        int min = 0;
+        for(int i=1; i<nums.length; i++){
+            if(nums[i]<nums[min])
+              min=i;
+            if(nums[i]>nums[max])
+              max=i;
         }
-        Arrays.sort(nums);
-        int minIndex = map.get(nums[0]);
-        int maxIndex = map.get(nums[nums.length - 1]);
-        int left = Math.max(minIndex, maxIndex) + 1;
-        int right = nums.length - Math.min(minIndex, maxIndex);
-        int fromBothSides = Math.min(minIndex + 1 + (nums.length - maxIndex), maxIndex + 1 + (nums.length - minIndex));
-        
-        return Math.min(fromBothSides,Math.min(left, right));
+        if(max<min){
+            int t = max;
+            max = min;
+            min = t;
+        }
+        int l = max+1;
+        int r = nums.length-min;
+        int b = (min+1)+(nums.length-max);
+        return Math.min(b, Math.min(l,r));
+
+        //Using HashMap
+        // HashMap <Integer, Integer> map = new HashMap<>();
+        // for(int i=0; i<nums.length; i++){
+        //     map.put(nums[i],i);
+        // }
+        // Arrays.sort(nums);
+        // int minIndex = map.get(nums[0]);
+        // int maxIndex = map.get(nums[nums.length - 1]);
+        // int left = Math.max(minIndex, maxIndex) + 1;
+        // int right = nums.length - Math.min(minIndex, maxIndex);
+        // int fromBothSides = Math.min(minIndex + 1 + (nums.length - maxIndex), maxIndex + 1 + (nums.length - minIndex));
+        // return Math.min(fromBothSides,Math.min(left, right));
     }
 }
