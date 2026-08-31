@@ -57,6 +57,7 @@ A collection of random LeetCode questions
 | [0206-reverse-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0817-linked-list-components](https://github.com/Ayu270/LeetCode/tree/master/0817-linked-list-components) |
 | [0838-design-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ayu270/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -234,6 +235,7 @@ A collection of random LeetCode questions
 | [0242-valid-anagram](https://github.com/Ayu270/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayu270/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0817-linked-list-components](https://github.com/Ayu270/LeetCode/tree/master/0817-linked-list-components) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ayush27coder/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ayush27coder/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -307,6 +309,7 @@ A collection of random LeetCode questions
 | [0518-coin-change-ii](https://github.com/ayush27coder/LeetCode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayu270/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Ayu270/LeetCode/tree/master/0704-binary-search) |
+| [0817-linked-list-components](https://github.com/Ayu270/LeetCode/tree/master/0817-linked-list-components) |
 | [0854-making-a-large-island](https://github.com/ayush27coder/LeetCode/tree/master/0854-making-a-large-island) |
 | [0877-stone-game](https://github.com/Ayu270/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ayush27coder/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
