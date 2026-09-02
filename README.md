@@ -153,6 +153,7 @@ A collection of random LeetCode questions
 | [3536-maximum-product-of-two-digits](https://github.com/Ayu270/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayu270/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayu270/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ayu270/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of random LeetCode questions
 | [3719-longest-balanced-subarray-i](https://github.com/ayush27coder/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush27coder/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Ayu270/LeetCode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ayu270/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String Matching
 |  |
 | ------- |
