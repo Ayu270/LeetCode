@@ -63,6 +63,7 @@ A collection of random LeetCode questions
 | [0908-middle-of-the-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ayu270/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ayush27coder/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayu270/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of random LeetCode questions
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayu270/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayu270/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ayu270/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayu270/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayush27coder/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ayush27coder/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ayu270/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -370,6 +372,7 @@ A collection of random LeetCode questions
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayu270/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ayu270/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ayu270/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayu270/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayush27coder/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ayush27coder/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayush27coder/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
