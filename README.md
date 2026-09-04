@@ -125,6 +125,7 @@ A collection of random LeetCode questions
 | [0067-add-binary](https://github.com/ayush27coder/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ayush27coder/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayush27coder/LeetCode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Ayu270/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Ayu270/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Ayu270/LeetCode/tree/master/0486-predict-the-winner) |
@@ -176,6 +177,7 @@ A collection of random LeetCode questions
 | [0058-length-of-last-word](https://github.com/ayush27coder/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ayush27coder/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ayu270/LeetCode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Ayu270/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Ayu270/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ayu270/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayu270/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
