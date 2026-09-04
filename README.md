@@ -234,6 +234,7 @@ A collection of random LeetCode questions
 | [0049-group-anagrams](https://github.com/Ayu270/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Ayu270/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush27coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Ayu270/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ayu270/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ayu270/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayu270/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -308,6 +309,7 @@ A collection of random LeetCode questions
 | [0118-pascals-triangle](https://github.com/ayush27coder/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayu270/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ayu270/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Ayu270/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ayu270/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayu270/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
@@ -403,6 +405,7 @@ A collection of random LeetCode questions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ayu270/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayu270/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-letter-tile-possibilities](https://github.com/ayush27coder/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ayush27coder/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -475,6 +478,7 @@ A collection of random LeetCode questions
 | [0049-group-anagrams](https://github.com/Ayu270/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ayu270/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayush27coder/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ayu270/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ayu270/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ayu270/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
@@ -646,6 +650,7 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush27coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Ayu270/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Ayu270/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ayu270/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayush27coder/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -778,4 +783,8 @@ A collection of random LeetCode questions
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayu270/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ayu270/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
