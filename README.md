@@ -178,6 +178,7 @@ A collection of random LeetCode questions
 | [0067-add-binary](https://github.com/ayush27coder/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ayu270/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Ayu270/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Ayu270/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ayu270/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ayu270/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayu270/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -238,6 +239,7 @@ A collection of random LeetCode questions
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush27coder/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ayu270/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ayu270/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Ayu270/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ayu270/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayu270/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ayu270/LeetCode/tree/master/0242-valid-anagram) |
