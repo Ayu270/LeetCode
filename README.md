@@ -394,6 +394,7 @@ A collection of random LeetCode questions
 | [3731-find-missing-elements](https://github.com/Ayu270/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayu270/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ayu270/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Ayu270/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## String Matching
 |  |
 | ------- |
@@ -588,6 +589,7 @@ A collection of random LeetCode questions
 | [2145-grid-game](https://github.com/ayush27coder/LeetCode/tree/master/2145-grid-game) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayush27coder/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ayush27coder/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Ayu270/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Topological Sort
 |  |
 | ------- |
