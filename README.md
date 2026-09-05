@@ -316,6 +316,7 @@ A collection of random LeetCode questions
 | [0169-majority-element](https://github.com/Ayu270/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ayu270/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayu270/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Ayu270/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Ayu270/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ayu270/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/ayush27coder/LeetCode/tree/master/0407-trapping-rain-water-ii) |
