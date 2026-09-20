@@ -219,6 +219,7 @@ A collection of random LeetCode questions
 | [3379-score-of-a-string](https://github.com/ayush27coder/LeetCode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/ayush27coder/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ayush27coder/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ayu270/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayu270/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayu270/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ayush27coder/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -510,6 +511,7 @@ A collection of random LeetCode questions
 | [3379-transformed-array](https://github.com/ayush27coder/LeetCode/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayush27coder/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ayush27coder/LeetCode/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ayu270/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
