@@ -161,6 +161,7 @@ A collection of random LeetCode questions
 | [3524-find-x-value-of-array-i](https://github.com/Ayu270/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Ayu270/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayu270/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ayu270/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayu270/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayu270/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Ayu270/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -429,6 +430,7 @@ A collection of random LeetCode questions
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayu270/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Ayu270/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Ayu270/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ayu270/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayu270/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ayush27coder/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/ayush27coder/LeetCode/tree/master/3637-trionic-array-i) |
